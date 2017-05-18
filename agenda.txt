@@ -1,0 +1,8 @@
+18th
+try to run that simple code of kalman filter.
+how to convert time series data into input for normal kalman filter.
+data?
+
+filterpy book
+bayesian statistics
+try to read till UKF

@@ -1,0 +1,32 @@
+1) Advantages
+O(n2) vs O(n4) 
+2) Disadvantages
+
+3) Scope for further development
+
+kalman filter
+basics techniques it uses= predict and update loop
+time complexity
+what kind of data will work best
+improvements or integration ?
+How to apply it best to the anomly part
+
+
+
+advantages:
+it doesnt require more of a previous time series data. (only the last time series data is required)
+more accurate than the measured data.
+Can be used to detect anomly in a very noisy data given the model is linear.
+
+
+unscented kalaman filter
+arxiv.org --has some implemented UKF
+filterpy
+rlabbe -github handle developed UKF python
+simondlevy --tinyekf
+
+
+
+
+
+kepller space flux data
