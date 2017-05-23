@@ -1,0 +1,24 @@
+unscented kalman filter
+Advantages
+Highly efficient
+far more accuarte than EKF
+no need of jacobian so easy to implement
+can be strengthend
+computational complexity same as EKF
+
+
+
+
+can be used apply to detect anomaly ?
+
+
+
+
+
+
+
+
+if state transition equations are expressed in the form of taylor series the error is of the fourth order of the taylor series expansion.
+order of the error will be fourth deriviative of the f[.,.,.]
+mean is predicted more accurately than EKF.
+we can furhter strengthen the our results by simple adding another choice k.
