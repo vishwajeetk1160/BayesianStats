@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 22nd
 run nomral kf and ukf on the bearing dataset
 plot graphs, see the difference. analyze
@@ -6,3 +7,13 @@ plot graphs, see the difference. analyze
 
 how to convert time series data into input for normal kalman filter.
 data to try?
+=======
+18th
+try to run that simple code of kalman filter.
+how to convert time series data into input for normal kalman filter.
+data?
+
+filterpy book
+bayesian statistics
+try to read till UKF
+>>>>>>> de8b11501069e1dac417ce559e2e7993fb387657
